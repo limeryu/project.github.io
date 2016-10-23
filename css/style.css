@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	height: 100vh;
+	background: url("../images/photo_back_1920.jpg");
+	color: #fff;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+h1{
+	font-weight: 200;
+	letter-spacing: 0.23em;
+
+}
