@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	font-family: "Spoqa Han Sans", Dotum, Gulim, Sans-Serif;
+}
+.page-header{
+	height: 20vh;
+	background: #fff;
+	color: #454545;
+	text-align: center;
+	line-height: 20vh;
+}
+.page-header h1 {
+	margin-top: 0;
+}
+.page-header img {
+    vertical-align: middle;
+}
+.page-main{
+	height: 80vh;
+	background: #fc414b;
+	text-align: center;
+	/*line-height: 80vh;*/
+}
+
+.page-main .column {
+	display: inline-block;
+	margin-top: 7vh;
+	margin-bottom: 10px;
+	padding-top:1em;
+	padding-bottom: 1em;
+	width: 20vw;
+	/*마이너헤이트:높이의 최소값*/
+	min-height: 60vh;  
+	background: #131313;
+	color: #fff;
+	/*마이너헤이트 값만큼 라인헤*/
+	line-height: 60vh;
+}
+.page-footer{
+	height: 15vh;
+	background: #64131b;
+	color: #fff;
+	text-align: center;
+	line-height: 15vh;
+}
